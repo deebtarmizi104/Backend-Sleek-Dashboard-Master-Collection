@@ -1,1 +1,1 @@
-# Backend Sleek Dashboard Master Tenplate Collections
+# Backend Sleek Dashboard Master Template Collections
