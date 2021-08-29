@@ -5,4 +5,4 @@
 
 -------------------
 
-**You can review on [Sleek - Demo](https://deebtarmizi104.github.io/Backend-Sleek-Dashboard-Master-Collection/)**
+**You can review on [Sleek - Demo](https://deebtarmizi104.github.io/Sleek-Dashboard-Backend-Master/)**
